@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: EDG NB
 
-![](https://github-readme-stats.vercel.app/api?username=SammiJiang&?theme=gruvbox )
+![](https://github-readme-stats.vercel.app/api?username=SammiJiang&theme=gruvbox )
