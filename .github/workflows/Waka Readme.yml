@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: SammiJiang/waka-readme@master
         with:
-          WAKATIME_API_KEY: 0ec6d48b-467d-46a2-b739-0828cdb47ba9
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
