@@ -9,8 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xjiang1221@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: EDG NB
+## 👾 Activities 
 
 ![](https://github-readme-stats.vercel.app/api?username=SammiJiang&theme=gruvbox )
+
+## 👩🏼‍💻 Time Distribution 
 
 <!--START_SECTION:waka-->
 
