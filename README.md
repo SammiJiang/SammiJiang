@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             1 hr 46 mins    ███████████████████████░░   92.59 %
-Python           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Java             1 hr 46 mins    ███████████████████████▒░   93.00 %
+Python           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
