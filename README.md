@@ -14,8 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java            6 mins          ████████████████████████▒   97.11 %
-AUTO_DETECTED   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
