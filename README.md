@@ -14,9 +14,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             29 hrs 10 mins  █████████████████████████   99.34 %
-textmate         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java             16 hrs 49 mins  █████████████████████████   99.37 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
