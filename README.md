@@ -14,10 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             35 mins         ████████████████████████▓   98.65 %
-Python           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
